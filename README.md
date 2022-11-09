@@ -1,4 +1,4 @@
-![download](https://user-images.githubusercontent.com/82020119/200804102-bc3607fa-ec93-44e7-bb6a-9ed4f9fc962b.png)
+![download (2)](https://user-images.githubusercontent.com/82020119/200804459-ea3d969b-04a3-4a4d-82f8-279dbf3e27f2.png)
 
 ## Hey 👋, I'm Gowrav Krishna V!  
   
