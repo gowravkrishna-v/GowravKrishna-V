@@ -1,11 +1,8 @@
 ![download (4)](https://user-images.githubusercontent.com/82020119/200805394-dbae4e6e-471c-4b07-8fc9-a52c90d8866b.png)
 
-## Hey 👋, I'm Gowrav Krishna V!  
+## Hey, I'm Gowrav Krishna!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
 
-<a href="https://github.com/GowravKrishna-V" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/@GowravKrishna_V" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -13,8 +10,11 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/gowrav_krishna_2k1" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="mailto:gowravgdboy@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
   
 
 
@@ -28,20 +28,13 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m in ❤️ with Flutter and Anime  
+- I’m in ❤️ with Flutter and Anime  
   
 
-- ❓ Ask me about anything related to Flutter and Anime😜  
+- Ask me about anything related to Flutter and Anime😜  
   
 
-- ⚡ Fun fact: Its difficult for me to stop in the middle of development process  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+- Fun fact: Its difficult for me to stop in the middle of development process  
 
 
 </td></tr></table>  
@@ -65,16 +58,6 @@
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
 </div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowravKrishna-V&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
 
 <br/>  
 
